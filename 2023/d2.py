@@ -1,12 +1,7 @@
 
-# Imports
-
 # Options
 verbose    = True
 test_mode  = False
-
-# Lists
-
 
 # Function for debug print
 def debug_print(str):
